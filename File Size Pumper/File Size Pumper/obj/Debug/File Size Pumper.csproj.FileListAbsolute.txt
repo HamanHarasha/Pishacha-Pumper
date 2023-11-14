@@ -1,0 +1,13 @@
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\bin\Debug\File Size Pumper.exe.config
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\bin\Debug\File Size Pumper.exe
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\bin\Debug\File Size Pumper.pdb
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\bin\Debug\Guna.UI2.dll
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.csproj.AssemblyReference.cache
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File_Size_Pumper.Form1.resources
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File_Size_Pumper.Properties.Resources.resources
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.csproj.GenerateResource.cache
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.csproj.CoreCompileInputs.cache
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.csproj.CopyComplete
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.exe
+C:\Users\Control\source\repos\File Size Pumper\File Size Pumper\obj\Debug\File Size Pumper.pdb
